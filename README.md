@@ -27,8 +27,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. Tarayıcınızda şu adresi açın: `http://localhost:5000`
-
 ## Kullanım
 
 1. TikTok uygulamasından video bağlantısını kopyalayın
